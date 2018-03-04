@@ -1,5 +1,7 @@
 # A blackjack card game made with unity (v 2017.3.0) #
 
+[![License](http://img.shields.io/:license-MIT-blue.svg)](https://raw.githubusercontent.com/joaokucera/unity-blackjack/master/LICENSE)
+
 It's a repository for a prototype made in between a day and another and refactored about 7 times in order to get a better readable code. Feel free to download, there is no license, no condition, just download it and use as you wish. I hope this helps you to study Unity.
 
 #### Demo
