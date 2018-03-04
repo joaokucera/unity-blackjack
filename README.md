@@ -1,6 +1,6 @@
 # A blackjack card game made with unity (v 2017.3.0) #
 
-It's a repository for a prototype made in between a day and another. Feel free to download, there is no license, no condition, just download it and use as you wish. I hope this helps you to study Unity.
+It's a repository for a prototype made in between a day and another and refactored about 7 times in order to get a better readable code. Feel free to download, there is no license, no condition, just download it and use as you wish. I hope this helps you to study Unity.
 
 #### Demo
 
@@ -18,6 +18,6 @@ Licensed under the MIT License.
 
 ##### Change Log
 
-0.0.0 - Empty Project. (March 01, 2018).
-0.0.1 - Source Code. (March 02, 2018).
-0.1.0 - WebGL demo. (March 02, 2018).
+0.0.0 - Empty Project. (March 02, 2018).
+0.0.1 - Source Code. (March 03, 2018).
+0.1.0 - WebGL demo. (March 04, 2018).
